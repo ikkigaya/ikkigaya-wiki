@@ -26,7 +26,7 @@
 
 ข้อมูลมากมายที่จะนำเสนอ ทำความรู้จักกับระบบของเซิร์ฟอิคิงายะให้ดียิ่งขึ้นและความสามารถเพิ่มเติมจากคำสั่งต่างๆ
 
-[คำสั่ง](/wiki/commands) • [ฤดูกาล](/wiki/seasons)
+[คำสั่ง](/wiki/commands) • [ข้ามแพลตฟอร์ม](/wiki/cross-platform) • [ฤดูกาล](/wiki/seasons)
 
 # กฎ
 ![](https://pbs.twimg.com/media/FZLF6ExX0AYAltt?format=jpg&name=medium)
