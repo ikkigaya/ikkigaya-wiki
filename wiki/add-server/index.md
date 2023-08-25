@@ -24,7 +24,10 @@
 ![](https://i.imgur.com/DKHAJwN.jpeg)
 5. เลือกเพิ่มเซิร์ฟเวอร์
 ![](https://i.imgur.com/rGQHkFX.jpeg)
-6. กรอกข้อมูล ชื่อเซิร์ฟเวอร์ `ikkigaya` ที่อยู่เซิร์ฟเวอร์ `play.ikkigaya.com` พอร์ต `19132` และกดบันทึก
+6. กรอกข้อมูลและกดบันทึก
+   - ชื่อเซิร์ฟเวอร์ `ikkigaya`
+   - ที่อยู่เซิร์ฟเวอร์ `play.ikkigaya.com`
+   - พอร์ต `19132`
 ![](https://i.imgur.com/bXgYioW.jpeg)
 
 ## เวอร์ชั่น Java
@@ -32,7 +35,10 @@
 ![](https://i.imgur.com/mGo5p0P.png)
 2. กดเพิ่มเซิร์ฟเวอร์
 ![](https://i.imgur.com/mVACAJX.png)
-3. กรอกข้อมูล ชื่อเซิร์ฟเวอร์ `ikkigaya` ที่อยู่เซิร์ฟเวอร์ `play.ikkigaya.com` พอร์ต `25565` และกดเสร็จสิ้น
+3. กรอกข้อมูลและกดเสร็จสิ้น
+   - ชื่อเซิร์ฟเวอร์ `ikkigaya`
+   - ที่อยู่เซิร์ฟเวอร์ `play.ikkigaya.com`
+   - พอร์ต `25565`
 ![](https://i.imgur.com/GUTogb4.png)
 4. กดเข้าร่วมเซิร์ฟเวอร์
 ![](https://i.imgur.com/FXIjZd1.png)
