@@ -1,4 +1,5 @@
 # คำถามที่พบบ่อย 
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo-WKpl0qhXziRlIhFmcsUn35-Nz-30CgyuQ&usqp=CAU)
 รวมการถามตอบต่างๆที่อาจมีประโยชน์กับคุณ
 
 ## ข้ามแพลตฟอร์ม 
