@@ -22,7 +22,7 @@
 [การลงทะเบียน](/wiki/register) • [การเข้าสู่ระบบ](/wiki/login) • [การเพิ่มเซิร์ฟเวอร์](/wiki/add-server) • [คำถามที่พบบ่อย](/wiki/faq)
 
 # ตัวเกม
-![](https://pbs.twimg.com/media/FDcRwzJX0AMUNjr?format=jpg&name=large)
+![](https://pbs.twimg.com/media/E9FObTQWYAYKgBv?format=jpg&name=large)
 
 ข้อมูลมากมายที่จะนำเสนอ ทำความรู้จักกับระบบของเซิร์ฟอิคิงายะให้ดียิ่งขึ้นและความสามารถเพิ่มเติมจากคำสั่งต่างๆ
 
