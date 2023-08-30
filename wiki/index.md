@@ -12,7 +12,14 @@
 
 ข้อมูลมากมายที่จะนำเสนอ ทำความรู้จักกับระบบของเซิร์ฟอิคิงายะให้ดียิ่งขึ้นและความสามารถเพิ่มเติมจากคำสั่งต่างๆ
 
-[คำสั่ง](/wiki/commands) • [ข้ามแพลตฟอร์ม](/wiki/cross-platform) • [ฤดูกาล](/wiki/seasons) • [ภัยพิบัติ](/wiki/disasters) • [สทรัคเจอร์](/wiki/structures) • [ช่องเก็บของเสมือน](/wiki/virtual-inventory) • [เศรษฐกิจ](/wiki/economy) • [ตลาดกลาง](/wiki/auction-house)
+- [คำสั่ง](/wiki/commands)
+- [ข้ามแพลตฟอร์ม](/wiki/cross-platform)
+- [ฤดูกาล](/wiki/seasons)
+- [ภัยพิบัติ](/wiki/disasters)
+- [สทรัคเจอร์](/wiki/structures)
+- [ช่องเก็บของเสมือน](/wiki/virtual-inventory)
+- [เศรษฐกิจ](/wiki/economy)
+- [ตลาดกลาง](/wiki/auction-house)
 
 # เกี่ยวกับ
 ![](https://pbs.twimg.com/media/FeuQfJKWQAAKqca?format=jpg&name=large)
