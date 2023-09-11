@@ -6,9 +6,4 @@
 - ผู้เล่นสามารถนำของ-ไอเทม เงิน หรือสิทธิ์ และอื่นๆนำข้ามเซิร์ฟบางเซิร์ฟเวอร์ได้ หรือบางเซิร์ฟอาจนำข้ามไม่ได้
 
 ## รายชื่อเซิร์ฟเวอร์ 
-- [ล็อบบี้](/wiki/servers/lobby)
-- [สร้างสรรค์](/wiki/servers/creative)
-- [หาของ](/wiki/servers)
-- [สร้างบ้าน](/wiki/servers)
-- [เนเทอร์](/wiki/servers)
-- [ดิเอนด์](/wiki/servers)
+[ล็อบบี้](/wiki/servers/lobby) • [สร้างสรรค์](/wiki/servers/creative) • [หาของ](/wiki/servers) • [สร้างบ้าน](/wiki/servers) • [เนเทอร์](/wiki/servers) • [ดิเอนด์](/wiki/servers)
