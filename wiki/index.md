@@ -21,6 +21,7 @@
   - [ดิเอนด์](/wiki/servers)
 - [คำสั่ง](/wiki/commands)
 - [ข้ามแพลตฟอร์ม](/wiki/cross-platform)
+- [ประวัติย้อนหลัง](/wiki/coreprotect)
 - [วิญญาณ](/wiki/soul)
 - [ฤดูกาล](/wiki/seasons)
 - [ภัยพิบัติ](/wiki/disasters)
