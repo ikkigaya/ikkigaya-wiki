@@ -14,7 +14,7 @@
 
 - [เซิร์ฟเวอร์](/wiki/servers)
   - [ล็อบบี้](/wiki/servers/lobby)
-  - [สร้างสรรค์](/wiki/servers)
+  - [สร้างสรรค์](/wiki/servers/creative)
   - [หาของ](/wiki/servers)
   - [สร้างบ้าน](/wiki/servers)
   - [เนเทอร์](/wiki/servers)
