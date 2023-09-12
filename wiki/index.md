@@ -13,7 +13,7 @@
 ข้อมูลมากมายที่จะนำเสนอ ทำความรู้จักกับระบบของเซิร์ฟอิคิงายะให้ดียิ่งขึ้น
 
 - [เซิร์ฟเวอร์](/wiki/servers)
-  - [ล็อบบี้](/wiki/servers/lobby) • [สร้างสรรค์](/wiki/servers/creative) • [หาของ](/wiki/servers) • [สร้างบ้าน](/wiki/servers) • [เนเทอร์](/wiki/servers) • [ดิเอนด์](/wiki/servers)
+  - [ล็อบบี้](/wiki/servers/lobby) • [สร้างสรรค์](/wiki/servers/creative) • [หาของ](/wiki/servers) • [สร้างบ้าน](/wiki/servers) • [เนเทอร์](/wiki/servers/nether) • [ดิเอนด์](/wiki/servers)
 - [คำสั่ง](/wiki/commands)
 - [ข้ามแพลตฟอร์ม](/wiki/cross-platform)
 - [ประวัติย้อนหลัง](/wiki/coreprotect)
