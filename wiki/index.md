@@ -22,7 +22,7 @@
 - [ฤดูกาล](/wiki/seasons)
 - [ภัยพิบัติ](/wiki/disasters)
 - [สทรัคเจอร์](/wiki/structures)
-- [เศรษฐกิจ](/wiki/economy)
+- [เงิน](/wiki/economy)
 - [ภาษี](/wiki/tax)
 - [ร้านค้า](/wiki/dynamicshop)
 - [ตลาดกลาง](/wiki/auction-house)
