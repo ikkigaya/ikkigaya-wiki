@@ -23,6 +23,7 @@
 - [ภัยพิบัติ](/wiki/disasters)
 - [สทรัคเจอร์](/wiki/structures)
 - [เศรษฐกิจ](/wiki/economy)
+- [ร้านค้า](/wiki/dynamicshop)
 - [ตลาดกลาง](/wiki/auction-house)
 
 # ช่องทางการสื่อสาร 
