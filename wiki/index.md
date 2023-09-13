@@ -16,6 +16,7 @@
   - [ล็อบบี้](/wiki/servers/lobby) • [สร้างสรรค์](/wiki/servers/creative) • [หาของ](/wiki/servers) • [สร้างบ้าน](/wiki/servers) • [เนเทอร์](/wiki/servers/nether) • [ดิเอนด์](/wiki/servers/the-end)
 - [คำสั่ง](/wiki/commands)
 - [ข้ามแพลตฟอร์ม](/wiki/cross-platform)
+- [เอพี (AP)](/wiki/actionpoints)
 - [ประวัติย้อนหลัง](/wiki/coreprotect)
 - [วิญญาณ](/wiki/soul)
 - [ฤดูกาล](/wiki/seasons)
