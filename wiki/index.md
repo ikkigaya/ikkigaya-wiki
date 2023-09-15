@@ -14,7 +14,7 @@
 
 - [เซิร์ฟเวอร์](/wiki/servers)
   - [ล็อบบี้](/wiki/servers/lobby) • [สร้างสรรค์](/wiki/servers/creative) • [หาของ](/wiki/servers) • [สร้างบ้าน](/wiki/servers) • [เนเทอร์](/wiki/servers/nether) • [ดิเอนด์](/wiki/servers/the-end)
-- [คำสั่ง](/wiki/commands) • [ข้ามแพลตฟอร์ม](/wiki/cross-platform) • [AP](/wiki/actionpoints) • [ประวัติย้อนหลัง](/wiki/coreprotect) • [วิญญาณ](/wiki/soul) • [ฤดูกาล](/wiki/seasons) • [ภัยพิบัติ](/wiki/disasters) • [สทรัคเจอร์](/wiki/structures) • [เงิน](/wiki/economy) • [ภาษี](/wiki/tax) • [ร้านค้า](/wiki/dynamicshop) • [ตลาดกลาง](/wiki/auction-house)
+- [คำสั่ง](/wiki/commands) • [ข้ามแพลตฟอร์ม](/wiki/cross-platform) • [AP](/wiki/actionpoints) • [ประวัติย้อนหลัง](/wiki/coreprotect) • [วิญญาณ](/wiki/soul) • [ฤดูกาล](/wiki/seasons) • [ภัยพิบัติ](/wiki/disasters) • [สทรัคเจอร์](/wiki/structures) • [เงิน](/wiki/economy) • [ภาษี](/wiki/tax) • [ร้านค้า](/wiki/shop) • [ตลาดกลาง](/wiki/market)
 
 # ช่องทางการสื่อสาร 
 
