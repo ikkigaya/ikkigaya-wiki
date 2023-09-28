@@ -21,6 +21,7 @@
   - <a href="/wiki/servers/the-end" class="bgc-color-base0E w-120px h-35px pl-5px pr-5px d-flex ai-center jc-space-between td-none br-4px boxs-border-box bgs-cover bgpos-calc-50%+0px-50% tst-all-.12s-ease-in-out hover:bgpos-calc-50%+-20px-50% focus:bgpos-calc-50%+-20px-50% hover:td-none" style=" background-image: url('https://minecraftitemids.com/item/64/magenta_stained_glass_pane.png');"><div class="fs-13px c-color-f8f8f8 ff-base-font">ดิเอนด์</div><div class="w-28px h-28px bgs-cover bgpos-center" style=" background-image: url('https://minecraftitemids.com/item/64/end_stone.png');"></div></a>
 - [คำสั่ง](/wiki/commands)
 - [ข้ามแพลตฟอร์ม](/wiki/cross-platform)
+- [กาชา](/wiki/gacha)
 - [แต้ม AP](/wiki/actionpoints)
 - [ประวัติย้อนหลัง](/wiki/coreprotect)
 - [วิญญาณ](/wiki/soul)
